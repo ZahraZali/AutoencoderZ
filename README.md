@@ -8,7 +8,7 @@ AutoencoderZ is an advanced Autoencoder model designed for dimensionality reduct
 ![Autoencoder Architecture](https://github.com/ZahraZali/AutoencoderZ/blob/main/AutoencoderZ.png)
 
 ## Requirements
-Python 3.x, TensorFlow 2.x, Keras, NumPy
+Python 3, TensorFlow 2, Keras, NumPy
 
 ## Contributions
 Feel free to open issues or submit pull requests to enhance the functionality or improve the code.
