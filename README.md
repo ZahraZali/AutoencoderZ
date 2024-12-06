@@ -7,6 +7,13 @@ AutoencoderZ is an advanced Autoencoder model designed for dimensionality reduct
 
 ![Autoencoder Architecture](https://github.com/ZahraZali/AutoencoderZ/blob/main/AutoencoderZ.png)
 
+## Link
+When using this model, please cite the following:
+
+Zali, Z., Mousavi, S.M., Ohrnberger, M. et al. Tremor clustering reveals pre-eruptive signals and evolution of the 2021 Geldingadalir eruption of the Fagradalsfjall Fires, Iceland. Commun Earth Environ 5, 1 (2024). https://doi.org/10.1038/s43247-023-01166-w
+
+Zali, Z., Martínez-Garzón,P., Kwiatek, G., Núñez-Jara, S., Beroza, G., Cotton, F., Bohnhoff, M. Low-Frequency Tremor-Like Episodes Before the 2023 MW 7.8 Türkiye Earthquake Linked to Cement Quarrying. (under review with Scientific Reports)
+
 ## Requirements
 Python 3, TensorFlow 2, Keras, NumPy
 
