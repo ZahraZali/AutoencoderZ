@@ -50,4 +50,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact  
 
 **Developer:** Zahra Zali  
-Email: zali@gfz-potsdam.de  
+Email: zali@gfz.de  
