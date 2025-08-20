@@ -7,7 +7,7 @@ AutoencoderZ is an advanced Autoencoder model designed for dimensionality reduct
 
 ![Autoencoder Architecture](https://github.com/ZahraZali/AutoencoderZ/blob/main/AutoencoderZ.png)
 
-## Link
+## Citations and Links
 When using this model, please cite the following:
 
 Zali, Z., Martínez-Garzón,P., Kwiatek, G., Núñez-Jara, S., Beroza, G., Cotton, F., Bohnhoff, M. Low-Frequency Tremor-Like Episodes Before the 2023 MW 7.8 Türkiye Earthquake Linked to Cement Quarrying. Sci Rep 15, 6354 (2025). https://doi.org/10.1038/s41598-025-88381-x
